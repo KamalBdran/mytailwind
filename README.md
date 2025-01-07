@@ -1,2 +1,2 @@
-# crystal-maths
- Math tutoring landing page w. HTML & TailwindCSS
+# kamalbdran
+ Math tutoring landing page with HTML page & TailwindCSS
